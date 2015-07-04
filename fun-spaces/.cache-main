@@ -1,0 +1,185 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> /usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> /home/pablitar/Apps/eclipse-scala-ide/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+35 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$origin$1.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$plus$1.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$point$1.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$scalarProduct$1.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$class.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$X$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$Y$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$Z$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$class.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Component$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Component.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Back$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Down$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Front$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Left$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Right$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Up$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$$anonfun$1.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$$anonfun$2.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$$anonfun$sumOn$1.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Space$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Space.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/SpaceContext$class.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/SpaceContext.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces$Space2D$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces$Space3D$.class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces.class
+binary dependencies:
+2 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /home/pablitar/Apps/eclipse-scala-ide/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.AbstractSpace
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.AbstractSpace$$anonfun$origin$1
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.AbstractSpace$$anonfun$plus$1
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.AbstractSpace$$anonfun$point$1
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.AbstractSpace$$anonfun$scalarProduct$1
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.AbstractSpace$class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Axis
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Axis$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Axis$X$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Axis$Y$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Axis$Z$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Axis$class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Component
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Component$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$Back$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$Down$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$Front$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$Left$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$Right$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Direction$Up$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Point
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Point$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Point$$anonfun$1
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Point$$anonfun$2
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Point$$anonfun$sumOn$1
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Space
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Space$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.SpaceContext
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.SpaceContext$class
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Spaces
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Spaces$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Spaces$Space2D$
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> ar.com.pablitar.funspaces.Spaces$Space3D$
+used names:
+0 items
+product stamps:
+35 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$origin$1.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$plus$1.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$point$1.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$$anonfun$scalarProduct$1.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace$class.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/AbstractSpace.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$X$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$Y$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$Z$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis$class.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Axis.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Component$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Component.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Back$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Down$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Front$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Left$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Right$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction$Up$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Direction.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$$anonfun$1.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$$anonfun$2.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$$anonfun$sumOn$1.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Point.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Space$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Space.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/SpaceContext$class.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/SpaceContext.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces$Space2D$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces$Space3D$.class -> lastModified(1435966714000)
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/bin/ar/com/pablitar/funspaces/Spaces.class -> lastModified(1435966714000)
+source stamps:
+1 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> hash(a66c7b25bf76881ddbaf5ab765e0ac170b3bb653)
+binary stamps:
+2 items
+/home/pablitar/Apps/eclipse-scala-ide/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> lastModified(1432544673000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1434066793000)
+class names:
+2 items
+/home/pablitar/Apps/eclipse-scala-ide/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> scala.Equals
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcc70hAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAApzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAjYXIuY29tLnBhYmxpdGFyLmZ1bnNwYWNlcy5Db21wb25lbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AGkwAAmlkcQB+ABxMAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+ABdMAAp1cHBlckJvdW5kcQB+AClMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+ACEAAAAAdAAlYXIuY29tLnBhYmxpdGFyLmZ1bnNwYWNlcy5Db21wb25lbnQuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgAwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3I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+ADxxAH4AP3EAfgBBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAPYXIuY29tLnBhYmxpdGFyc3EAfgHSdAAGYXIuY29tc3EAfgHSdAACYXJzcQB+AdJ0ABlhci5jb20ucGFibGl0YXIuZnVuc3BhY2Vzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOVkkilHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADUvaG9tZS9wYWJsaXRhci9EZXZlbG9wL3RhZHAvZnVuLXNwYWNlcy9mdW4tc3BhY2VzL2JpbnQANS9ob21lL3BhYmxpdGFyL0RldmVsb3AvdGFkcC9mdW4tc3BhY2VzL2Z1bi1zcGFjZXMvc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABSmbHslv3aIHduvWrdl4KwXCzu2Uw==
+external apis:
+0 items
+source infos:
+1 items
+/home/pablitar/Develop/tadp/fun-spaces/fun-spaces/src/ar/com/pablitar/funspaces/Space.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTlZJIpR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL3BhYmxpdGFyL0RldmVsb3AvdGFkcC9mdW4tc3BhY2VzL2Z1bi1zcGFjZXMvYmludAA1L2hvbWUvcGFibGl0YXIvRGV2ZWxvcC90YWRwL2Z1bi1zcGFjZXMvZnVuLXNwYWNlcy9zcmM=
